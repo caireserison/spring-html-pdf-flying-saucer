@@ -1,6 +1,5 @@
 # spring-html-pdf-flying-saucer
 Converting HTML to Base64 PDF using Flying Saucer | Convertendo HTML em PDF Base64 utilizando Flying Saucer
-
 Site utilizado para converter imagem em Base64 (utilizado no logo):
 https://www.base64-image.de/
 
